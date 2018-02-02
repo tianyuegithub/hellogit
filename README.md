@@ -1,2 +1,2 @@
 # hellogit
-test github
+Test microserver config center it the github.
